@@ -15,7 +15,7 @@
     <meta property='og:title' content='แทงบอลออนไลน์ เปิดให้ทายผลบอลโลกทุกรูปแบบ พร้อมข้อเสนอและโปรโมชั่น FAFA855 เสริมสุดปังเพียบ' />
     <meta property='og:description' content='แทงบอลออนไลน์ จากสถานที่จริง เล่นได้แบบสดๆ FAFA855 พร้อมระบบน่าสนใจมากมาย เพิ่มรายได้มากขึ้นด้วยโปรโมชั่น' />
     <meta property='og:site_name' content='FAFA855' />
-    <meta name="google-site-verification" content="7cAHX4n43IM8KVvUPEPqUA3YZwnzpqR4yskNtlznFVU" />
+   <meta name="google-site-verification" content="BV4GpXMgEnHvYbwGGB-HV7LnYlkY3UmrG2caBjDthp4" />
     <meta name='page-locale' content='th'>
     <meta name='googlebot' content='index,follow'>
     <meta content='thailand' name='language'>
